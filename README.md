@@ -58,7 +58,7 @@ Statistical tests confirm that gender and diet do not significantly affect perfo
 ---
 
 ## **About Me**
-This project was created by Shreya Bhattacharjee, MSC in Data Science,Diploma in Data Science and Big Datam an aspiring Data Scientist and Data Engineer  and passionate about solving real-world problems through data.
+This project was created by Shreya Bhattacharjee, MSC in Data Science,an aspiring Data Scientist and Data Engineer  and passionate about solving real-world problems through data.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shreya-bhattacharjee-47b01129a/) or check out more projects on [GitHub](https://github.com/bhshre).
 
